@@ -1,0 +1,15 @@
+*{
+  border:solid 1px black;
+}
+body{
+  padding:50px;
+}
+.resume{
+  display:flex;
+}
+.left{
+flex:5   /*左邊有5等分*/
+}
+.right{
+  flex:7 /*右邊有7等分*/
+}
